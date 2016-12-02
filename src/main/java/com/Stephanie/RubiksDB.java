@@ -10,7 +10,7 @@ public class RubiksDB {
 
 
         private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";        //Configure the driver needed
-        private static final String DB_CONNECTION_URL = "jdbc:mysql://localhost:3306/rubiks_cube1";     //Connection string – where's the database?
+        private static final String DB_CONNECTION_URL = "jdbc:mysql://localhost:3306/rubiks";     //Connection string – where's the database?
         private static final String USER = "sczapuchlak";   //
         private static final String PASSWORD = "stardust123";
         private static final String TABLE_NAME = "rubiks";
